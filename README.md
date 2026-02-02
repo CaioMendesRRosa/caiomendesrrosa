@@ -71,14 +71,15 @@
 <ul>
 <li>
 <a href="https://www.linkedin.com/in/caio-mendes-ribeiro-da-rosa-374074388/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Caio Mendes-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
 </li>
 <br>
 <br>
 <li>
-<a href="mailto:caioribeirorosa@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Caio Mendes-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" t="mail" style="margin-bottom: 5px;">
+  <a href="mailto:caioribeirorosa@hotmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
 </a>
 </li>
 </ul>
@@ -86,3 +87,4 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+
